@@ -57,15 +57,6 @@ Sistema completo para gerenciamento de frotas, veículos, motoristas, abastecime
 - Tailwind CSS
 - Git e GitHub
 
----
-
-### 📊 Estatísticas GitHub
-
-![Athirson GitHub stats](https://github-readme-stats.vercel.app/api?username=athirson55&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athirson55&layout=compact&theme=tokyonight)
-
----
 
 ### 📫 Entre em contato
 
